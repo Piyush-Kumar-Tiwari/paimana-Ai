@@ -1,0 +1,181 @@
+project_id,project_name,sector,state,implementing_agency,approved_cost_crore,physical_progress_pct,financial_progress_pct,schedule_progress_pct,delay_days,change_orders,land_acquisition_issue,contractor_health_score,material_inflation_pct,pending_clearances,primary_driver,cost_overrun_pct,time_overrun_pct,status
+PMN-1001,Roads Infrastructure Package 01,Roads & Transport,Rajasthan,Rural Works Department,326.09,76.8,88.7,15.2,0,1,0,85.2,6.8,3,Contractor capacity,0.0,7.4,On Track
+PMN-1002,Water Infrastructure Package 02,Water & Sanitation,Bihar,State PWD,407.32,34.0,44.8,60.8,83,5,0,57.7,8.8,1,Contractor capacity,37.5,100.0,At Risk
+PMN-1003,Urban Development Infrastructure Package 03,Urban Development,Tamil Nadu,Municipal Corporation,109.2,37.0,17.2,77.6,120,5,1,43.0,6.0,0,Material price escalation,54.6,100.0,At Risk
+PMN-1004,Health Infrastructure Package 04,Health,Karnataka,State PWD,417.26,51.1,73.0,41.2,0,3,0,66.8,4.9,4,Design change,15.9,0.0,On Track
+PMN-1005,Urban Development Infrastructure Package 05,Urban Development,Bihar,Rural Works Department,215.53,61.6,69.0,51.7,0,2,1,66.3,3.8,0,Monsoon disruption,23.3,10.3,On Track
+PMN-1006,Roads Infrastructure Package 06,Roads & Transport,Uttar Pradesh,Urban Development Authority,506.82,74.6,67.9,51.8,0,0,1,57.0,6.2,2,Clearance dependency,10.5,15.5,On Track
+PMN-1007,Water Infrastructure Package 07,Water & Sanitation,Tamil Nadu,Municipal Corporation,333.45,52.9,30.8,53.9,0,1,0,50.3,5.7,3,Land acquisition,8.7,3.0,On Track
+PMN-1008,Education Infrastructure Package 08,Education,Rajasthan,Urban Development Authority,474.19,32.4,30.6,67.3,115,1,0,33.7,4.2,4,Land acquisition,26.5,100.0,At Risk
+PMN-1009,Roads Infrastructure Package 09,Roads & Transport,Rajasthan,State PWD,356.58,65.8,75.9,100.0,105,3,0,36.6,5.4,4,Design change,46.7,100.0,At Risk
+PMN-1010,Education Infrastructure Package 10,Education,Tamil Nadu,Municipal Corporation,94.22,45.8,39.9,100.0,207,3,0,18.0,6.9,4,Material price escalation,57.5,100.0,At Risk
+PMN-1011,Energy Infrastructure Package 11,Energy,Gujarat,Urban Development Authority,675.1,69.2,56.0,32.6,0,4,0,65.8,7.3,1,Land acquisition,5.5,14.9,On Track
+PMN-1012,Energy Infrastructure Package 12,Energy,Rajasthan,State PWD,187.16,99.3,100.0,57.7,0,1,0,81.6,5.0,2,Design change,0.0,3.5,Completed
+PMN-1013,Water Infrastructure Package 13,Water & Sanitation,Tamil Nadu,Health Infrastructure Cell,493.72,6.7,2.0,41.8,92,4,0,41.7,5.1,0,Material price escalation,43.9,100.0,At Risk
+PMN-1014,Water Infrastructure Package 14,Water & Sanitation,Assam,Urban Development Authority,667.22,52.4,51.8,66.2,31,5,0,69.0,7.4,1,Material price escalation,24.0,45.1,At Risk
+PMN-1015,Urban Development Infrastructure Package 15,Urban Development,Gujarat,Rural Works Department,627.15,100.0,85.5,41.0,0,1,1,55.5,8.4,3,Contractor capacity,16.4,4.9,Completed
+PMN-1016,Roads Infrastructure Package 16,Roads & Transport,Maharashtra,Health Infrastructure Cell,596.91,33.3,23.9,80.7,88,1,1,46.0,5.9,4,Contractor capacity,47.0,100.0,At Risk
+PMN-1017,Urban Development Infrastructure Package 17,Urban Development,Gujarat,Health Infrastructure Cell,372.18,58.0,40.0,69.6,78,3,0,56.4,3.9,1,Clearance dependency,24.0,100.0,At Risk
+PMN-1018,Roads Infrastructure Package 18,Roads & Transport,Gujarat,Urban Development Authority,610.19,69.4,44.4,50.7,0,1,0,74.3,7.8,4,Design change,0.0,2.7,On Track
+PMN-1019,Roads Infrastructure Package 19,Roads & Transport,Bihar,Health Infrastructure Cell,353.47,66.2,92.3,25.2,0,2,0,80.7,8.2,0,Contractor capacity,7.4,5.8,On Track
+PMN-1020,Education Infrastructure Package 20,Education,Maharashtra,Health Infrastructure Cell,582.68,50.6,46.8,45.3,0,2,0,83.3,8.3,2,Monsoon disruption,0.0,3.3,On Track
+PMN-1021,Water Infrastructure Package 21,Water & Sanitation,Uttar Pradesh,Rural Works Department,434.76,73.9,56.4,37.7,0,0,0,62.2,7.3,4,Clearance dependency,0.0,0.0,On Track
+PMN-1022,Urban Development Infrastructure Package 22,Urban Development,Uttar Pradesh,Health Infrastructure Cell,579.07,98.4,56.3,47.8,0,0,0,84.7,4.7,1,Clearance dependency,0.0,1.2,Completed
+PMN-1023,Education Infrastructure Package 23,Education,Tamil Nadu,Health Infrastructure Cell,273.66,54.3,46.6,71.2,50,5,0,79.4,6.9,1,Monsoon disruption,27.0,82.0,At Risk
+PMN-1024,Education Infrastructure Package 24,Education,Assam,State PWD,103.59,98.1,84.9,64.6,0,1,0,78.6,6.4,3,Monsoon disruption,0.0,0.0,Completed
+PMN-1025,Urban Development Infrastructure Package 25,Urban Development,Maharashtra,State PWD,605.5,75.5,73.0,80.2,32,1,0,76.3,5.0,1,Land acquisition,10.6,40.3,At Risk
+PMN-1026,Roads Infrastructure Package 26,Roads & Transport,Assam,State PWD,443.36,25.6,2.0,6.0,0,4,1,92.3,5.7,0,Design change,5.0,8.8,On Track
+PMN-1027,Roads Infrastructure Package 27,Roads & Transport,Tamil Nadu,Municipal Corporation,516.35,100.0,70.1,71.4,0,2,1,64.0,4.0,1,Monsoon disruption,2.4,14.7,Completed
+PMN-1028,Education Infrastructure Package 28,Education,Maharashtra,State PWD,119.88,91.0,79.8,26.6,0,1,0,77.2,8.5,0,Design change,0.0,2.6,On Track
+PMN-1029,Education Infrastructure Package 29,Education,Rajasthan,Municipal Corporation,446.91,57.4,58.0,42.0,0,1,0,96.0,7.3,2,Material price escalation,0.0,3.5,On Track
+PMN-1030,Education Infrastructure Package 30,Education,Assam,Health Infrastructure Cell,476.01,73.5,62.4,87.5,41,5,0,50.1,6.2,2,Land acquisition,33.6,61.3,At Risk
+PMN-1031,Roads Infrastructure Package 31,Roads & Transport,Gujarat,Municipal Corporation,252.56,50.3,62.1,18.0,0,2,0,49.5,2.0,1,Contractor capacity,3.8,15.7,On Track
+PMN-1032,Water Infrastructure Package 32,Water & Sanitation,Assam,Rural Works Department,500.74,19.0,8.6,64.4,88,2,0,74.4,4.1,1,Contractor capacity,30.8,100.0,At Risk
+PMN-1033,Energy Infrastructure Package 33,Energy,Maharashtra,State PWD,74.19,61.3,60.9,99.6,59,1,0,66.8,4.8,1,Design change,30.0,49.1,At Risk
+PMN-1034,Water Infrastructure Package 34,Water & Sanitation,Assam,Urban Development Authority,610.2,64.2,56.0,55.9,0,2,0,80.3,6.0,3,Material price escalation,3.5,2.1,On Track
+PMN-1035,Roads Infrastructure Package 35,Roads & Transport,Gujarat,Urban Development Authority,257.09,35.8,29.5,70.0,96,2,0,56.2,5.9,4,Design change,21.3,100.0,At Risk
+PMN-1036,Urban Development Infrastructure Package 36,Urban Development,Assam,Health Infrastructure Cell,462.91,21.6,40.7,92.0,250,9,0,18.0,3.7,2,Contractor capacity,75.7,100.0,At Risk
+PMN-1037,Water Infrastructure Package 37,Water & Sanitation,Uttar Pradesh,Municipal Corporation,306.93,43.6,61.5,46.9,26,1,0,73.6,4.0,4,Land acquisition,13.6,50.1,At Risk
+PMN-1038,Energy Infrastructure Package 38,Energy,Gujarat,Urban Development Authority,537.08,75.8,75.2,47.3,0,0,0,62.7,6.3,3,Design change,0.0,6.8,On Track
+PMN-1039,Health Infrastructure Package 39,Health,Uttar Pradesh,Urban Development Authority,262.32,100.0,87.7,15.5,0,1,1,79.9,3.4,4,Clearance dependency,0.0,21.1,Completed
+PMN-1040,Health Infrastructure Package 40,Health,Maharashtra,Health Infrastructure Cell,114.05,73.4,37.2,65.9,10,0,0,52.9,6.5,2,Contractor capacity,0.0,16.1,On Track
+PMN-1041,Health Infrastructure Package 41,Health,Tamil Nadu,Urban Development Authority,691.36,57.6,36.3,53.8,0,2,0,83.8,6.0,2,Design change,0.0,0.0,On Track
+PMN-1042,Roads Infrastructure Package 42,Roads & Transport,Bihar,State PWD,631.77,67.6,70.2,71.3,32,6,0,86.5,4.9,1,Land acquisition,20.3,54.4,At Risk
+PMN-1043,Energy Infrastructure Package 43,Energy,Bihar,Urban Development Authority,90.31,38.4,2.0,38.9,2,1,1,70.6,7.2,4,Contractor capacity,8.2,11.4,On Track
+PMN-1044,Health Infrastructure Package 44,Health,Tamil Nadu,Health Infrastructure Cell,310.46,57.7,65.3,37.2,0,1,0,66.7,4.1,2,Contractor capacity,8.9,0.0,On Track
+PMN-1045,Energy Infrastructure Package 45,Energy,Assam,State PWD,178.23,65.1,73.9,34.6,0,0,1,69.2,6.0,3,Land acquisition,9.7,12.9,On Track
+PMN-1046,Roads Infrastructure Package 46,Roads & Transport,Bihar,Health Infrastructure Cell,453.34,83.0,99.4,37.5,0,2,0,58.6,5.6,1,Monsoon disruption,0.0,13.8,On Track
+PMN-1047,Roads Infrastructure Package 47,Roads & Transport,Assam,Municipal Corporation,588.84,79.4,85.9,72.6,2,1,1,44.7,5.7,1,Design change,25.4,7.2,At Risk
+PMN-1048,Urban Development Infrastructure Package 48,Urban Development,Maharashtra,Urban Development Authority,240.64,64.4,83.7,62.3,0,0,0,52.5,5.5,4,Land acquisition,25.5,4.5,At Risk
+PMN-1049,Education Infrastructure Package 49,Education,Rajasthan,Municipal Corporation,636.03,52.9,28.4,58.4,0,2,1,86.9,7.2,4,Design change,20.1,12.8,On Track
+PMN-1050,Education Infrastructure Package 50,Education,Maharashtra,State PWD,296.11,67.5,85.7,88.4,53,2,0,62.5,4.8,4,Clearance dependency,27.9,61.5,At Risk
+PMN-1051,Health Infrastructure Package 51,Health,Assam,Health Infrastructure Cell,693.01,46.0,66.8,34.1,0,2,0,31.9,6.2,0,Clearance dependency,33.9,0.0,At Risk
+PMN-1052,Energy Infrastructure Package 52,Energy,Bihar,Urban Development Authority,578.26,49.8,70.5,100.0,117,5,0,32.1,7.1,2,Contractor capacity,56.0,100.0,At Risk
+PMN-1053,Health Infrastructure Package 53,Health,Gujarat,Rural Works Department,110.04,66.4,69.1,15.5,0,0,0,73.3,4.6,1,Land acquisition,0.0,0.0,On Track
+PMN-1054,Health Infrastructure Package 54,Health,Bihar,Municipal Corporation,200.13,65.0,41.8,79.4,16,0,0,64.7,5.4,1,Monsoon disruption,9.5,24.9,On Track
+PMN-1055,Health Infrastructure Package 55,Health,Uttar Pradesh,Urban Development Authority,68.42,65.2,82.6,51.6,0,2,0,67.3,7.2,4,Monsoon disruption,10.1,0.0,On Track
+PMN-1056,Health Infrastructure Package 56,Health,Uttar Pradesh,Rural Works Department,302.21,60.6,52.9,100.0,194,4,0,31.8,4.7,4,Material price escalation,48.6,100.0,At Risk
+PMN-1057,Urban Development Infrastructure Package 57,Urban Development,Karnataka,State PWD,189.85,50.1,29.4,64.9,53,3,1,58.8,6.3,1,Contractor capacity,36.7,100.0,At Risk
+PMN-1058,Education Infrastructure Package 58,Education,Gujarat,Municipal Corporation,163.82,55.8,67.7,82.8,123,4,0,47.0,2.0,1,Contractor capacity,37.5,100.0,At Risk
+PMN-1059,Education Infrastructure Package 59,Education,Gujarat,State PWD,258.37,45.9,81.3,62.0,90,3,0,45.7,4.5,0,Clearance dependency,41.3,100.0,At Risk
+PMN-1060,Education Infrastructure Package 60,Education,Maharashtra,Municipal Corporation,293.84,73.4,50.4,37.0,0,3,0,83.0,6.2,2,Clearance dependency,0.0,7.1,On Track
+PMN-1061,Water Infrastructure Package 61,Water & Sanitation,Karnataka,Municipal Corporation,391.05,45.9,56.6,97.5,153,7,0,43.3,5.6,4,Clearance dependency,58.6,100.0,At Risk
+PMN-1062,Education Infrastructure Package 62,Education,Bihar,Rural Works Department,31.88,27.1,48.1,50.0,69,2,0,64.0,6.1,4,Clearance dependency,30.4,100.0,At Risk
+PMN-1063,Urban Development Infrastructure Package 63,Urban Development,Assam,Health Infrastructure Cell,446.26,58.9,53.8,87.1,119,1,0,42.2,7.1,4,Design change,26.9,100.0,At Risk
+PMN-1064,Water Infrastructure Package 64,Water & Sanitation,Tamil Nadu,Urban Development Authority,400.27,75.5,72.3,43.7,0,6,0,94.1,5.8,3,Contractor capacity,2.7,13.0,On Track
+PMN-1065,Water Infrastructure Package 65,Water & Sanitation,Bihar,State PWD,590.87,86.3,69.7,60.6,0,1,0,55.3,5.3,1,Land acquisition,0.0,0.0,On Track
+PMN-1066,Health Infrastructure Package 66,Health,Rajasthan,Municipal Corporation,453.01,43.3,64.2,67.9,58,3,0,67.3,5.2,2,Material price escalation,29.7,94.9,At Risk
+PMN-1067,Roads Infrastructure Package 67,Roads & Transport,Bihar,Rural Works Department,719.59,56.3,79.7,73.9,96,2,0,31.5,6.7,4,Contractor capacity,31.7,100.0,At Risk
+PMN-1068,Water Infrastructure Package 68,Water & Sanitation,Maharashtra,Health Infrastructure Cell,543.67,51.2,25.5,56.2,15,0,0,73.5,4.1,2,Clearance dependency,0.0,22.9,On Track
+PMN-1069,Roads Infrastructure Package 69,Roads & Transport,Rajasthan,Municipal Corporation,475.88,100.0,93.2,56.1,0,2,0,91.3,5.7,0,Clearance dependency,0.0,3.2,Completed
+PMN-1070,Health Infrastructure Package 70,Health,Uttar Pradesh,State PWD,276.27,8.0,2.0,62.3,111,2,0,58.7,6.0,4,Monsoon disruption,39.1,100.0,At Risk
+PMN-1071,Energy Infrastructure Package 71,Energy,Tamil Nadu,Municipal Corporation,630.75,22.6,2.0,53.3,46,4,1,43.3,2.7,4,Land acquisition,41.2,97.5,At Risk
+PMN-1072,Urban Development Infrastructure Package 72,Urban Development,Uttar Pradesh,State PWD,411.98,61.7,63.3,72.0,43,1,1,40.6,5.1,3,Contractor capacity,37.4,69.8,At Risk
+PMN-1073,Urban Development Infrastructure Package 73,Urban Development,Karnataka,Urban Development Authority,674.75,76.8,100.0,100.0,34,1,1,56.2,6.2,2,Contractor capacity,39.6,41.5,At Risk
+PMN-1074,Health Infrastructure Package 74,Health,Maharashtra,State PWD,56.8,100.0,100.0,83.3,0,1,1,44.8,2.2,2,Clearance dependency,26.2,10.6,Completed
+PMN-1075,Urban Development Infrastructure Package 75,Urban Development,Assam,Health Infrastructure Cell,717.67,35.5,39.9,79.5,185,7,0,26.1,6.5,2,Land acquisition,62.2,100.0,At Risk
+PMN-1076,Education Infrastructure Package 76,Education,Rajasthan,State PWD,269.79,44.7,58.5,63.6,44,2,0,49.0,6.1,1,Contractor capacity,27.0,76.6,At Risk
+PMN-1077,Education Infrastructure Package 77,Education,Bihar,Rural Works Department,134.58,83.0,79.7,81.1,0,3,0,95.1,7.8,0,Monsoon disruption,4.9,7.3,On Track
+PMN-1078,Roads Infrastructure Package 78,Roads & Transport,Tamil Nadu,Municipal Corporation,45.06,98.5,100.0,56.8,0,2,0,52.1,5.6,4,Land acquisition,6.8,4.4,Completed
+PMN-1079,Health Infrastructure Package 79,Health,Bihar,Rural Works Department,366.61,64.4,74.7,24.2,0,3,0,83.3,5.2,3,Monsoon disruption,0.0,0.4,On Track
+PMN-1080,Health Infrastructure Package 80,Health,Karnataka,Municipal Corporation,311.17,28.5,38.0,45.8,53,1,0,36.5,7.4,2,Material price escalation,28.5,100.0,At Risk
+PMN-1081,Roads Infrastructure Package 81,Roads & Transport,Rajasthan,Municipal Corporation,342.13,65.3,31.7,59.0,0,0,0,76.1,6.2,0,Monsoon disruption,4.1,2.3,On Track
+PMN-1082,Energy Infrastructure Package 82,Energy,Maharashtra,Health Infrastructure Cell,463.23,38.1,40.8,72.5,84,1,0,64.7,5.4,1,Land acquisition,27.6,100.0,At Risk
+PMN-1083,Water Infrastructure Package 83,Water & Sanitation,Karnataka,State PWD,603.96,69.7,57.9,49.8,0,1,0,84.9,5.0,0,Clearance dependency,0.0,0.0,On Track
+PMN-1084,Energy Infrastructure Package 84,Energy,Assam,Health Infrastructure Cell,514.91,20.1,30.1,71.7,203,9,0,40.0,4.0,2,Material price escalation,57.2,100.0,At Risk
+PMN-1085,Roads Infrastructure Package 85,Roads & Transport,Uttar Pradesh,Municipal Corporation,128.58,11.2,39.7,76.5,197,3,1,18.0,6.6,0,Clearance dependency,77.4,100.0,At Risk
+PMN-1086,Water Infrastructure Package 86,Water & Sanitation,Rajasthan,State PWD,580.01,100.0,66.8,92.3,0,1,0,72.4,5.3,0,Material price escalation,0.0,8.8,Completed
+PMN-1087,Water Infrastructure Package 87,Water & Sanitation,Maharashtra,Rural Works Department,323.2,81.0,87.8,79.9,0,0,0,75.6,5.5,3,Material price escalation,3.7,0.0,On Track
+PMN-1088,Health Infrastructure Package 88,Health,Gujarat,Municipal Corporation,314.08,67.0,37.0,96.5,101,4,0,45.2,5.0,4,Material price escalation,28.9,100.0,At Risk
+PMN-1089,Water Infrastructure Package 89,Water & Sanitation,Maharashtra,Municipal Corporation,483.1,82.1,64.0,41.5,0,2,0,45.5,5.8,1,Design change,6.5,3.5,On Track
+PMN-1090,Energy Infrastructure Package 90,Energy,Tamil Nadu,Municipal Corporation,209.36,100.0,68.8,52.6,0,4,0,51.4,6.1,1,Material price escalation,0.0,7.1,Completed
+PMN-1091,Urban Development Infrastructure Package 91,Urban Development,Karnataka,Urban Development Authority,67.09,30.4,31.2,34.4,0,2,1,68.8,6.3,3,Design change,15.4,12.4,On Track
+PMN-1092,Water Infrastructure Package 92,Water & Sanitation,Gujarat,Rural Works Department,109.89,71.7,82.8,14.1,0,5,0,69.2,5.0,1,Contractor capacity,6.7,8.1,On Track
+PMN-1093,Health Infrastructure Package 93,Health,Bihar,Rural Works Department,303.97,65.7,78.4,34.0,0,5,0,70.4,7.6,2,Material price escalation,11.8,0.1,On Track
+PMN-1094,Water Infrastructure Package 94,Water & Sanitation,Karnataka,Rural Works Department,137.2,18.8,2.0,48.0,53,2,0,56.6,5.0,3,Design change,19.2,100.0,At Risk
+PMN-1095,Energy Infrastructure Package 95,Energy,Bihar,Rural Works Department,695.09,62.1,70.2,23.9,0,3,1,87.4,2.3,1,Clearance dependency,6.1,20.3,On Track
+PMN-1096,Urban Development Infrastructure Package 96,Urban Development,Gujarat,State PWD,80.51,55.0,20.8,5.7,0,2,0,61.1,6.2,0,Design change,0.0,4.8,On Track
+PMN-1097,Energy Infrastructure Package 97,Energy,Rajasthan,Rural Works Department,547.71,86.3,100.0,27.9,0,3,0,68.2,5.5,3,Monsoon disruption,0.0,2.0,On Track
+PMN-1098,Water Infrastructure Package 98,Water & Sanitation,Rajasthan,State PWD,612.36,66.1,47.4,75.9,48,4,1,76.2,3.8,0,Clearance dependency,24.7,79.4,At Risk
+PMN-1099,Roads Infrastructure Package 99,Roads & Transport,Assam,Municipal Corporation,529.32,82.3,77.5,57.1,0,2,1,72.8,5.4,4,Monsoon disruption,17.1,11.7,On Track
+PMN-1100,Energy Infrastructure Package 100,Energy,Gujarat,Rural Works Department,191.2,71.4,59.5,56.3,0,5,0,89.9,4.6,2,Clearance dependency,4.0,10.4,On Track
+PMN-1101,Education Infrastructure Package 101,Education,Gujarat,Urban Development Authority,705.94,61.4,64.5,56.5,11,2,0,53.9,4.8,1,Clearance dependency,21.9,19.9,On Track
+PMN-1102,Energy Infrastructure Package 102,Energy,Karnataka,Rural Works Department,39.69,54.5,65.2,49.2,0,3,0,65.0,9.2,3,Clearance dependency,21.3,0.0,On Track
+PMN-1103,Roads Infrastructure Package 103,Roads & Transport,Assam,State PWD,540.28,63.9,93.2,51.1,0,3,1,56.8,5.8,3,Design change,29.7,11.8,At Risk
+PMN-1104,Water Infrastructure Package 104,Water & Sanitation,Tamil Nadu,Municipal Corporation,81.18,23.1,6.1,100.0,136,9,0,35.2,4.4,3,Monsoon disruption,65.0,100.0,At Risk
+PMN-1105,Urban Development Infrastructure Package 105,Urban Development,Tamil Nadu,Municipal Corporation,499.61,38.6,23.2,69.5,91,4,0,74.9,9.0,1,Material price escalation,21.8,100.0,At Risk
+PMN-1106,Urban Development Infrastructure Package 106,Urban Development,Rajasthan,Health Infrastructure Cell,497.18,31.6,7.6,58.5,66,4,0,36.1,8.2,0,Material price escalation,37.4,100.0,At Risk
+PMN-1107,Education Infrastructure Package 107,Education,Rajasthan,Municipal Corporation,535.74,78.2,74.9,3.5,0,3,0,47.1,5.6,3,Clearance dependency,0.0,3.9,On Track
+PMN-1108,Roads Infrastructure Package 108,Roads & Transport,Assam,Municipal Corporation,418.13,54.3,39.2,51.4,3,3,0,71.2,5.7,2,Design change,0.0,1.4,On Track
+PMN-1109,Health Infrastructure Package 109,Health,Bihar,Urban Development Authority,202.54,46.4,53.4,84.4,107,5,0,68.6,4.3,1,Land acquisition,34.5,100.0,At Risk
+PMN-1110,Water Infrastructure Package 110,Water & Sanitation,Gujarat,Health Infrastructure Cell,402.19,72.5,69.0,67.3,18,1,0,80.7,3.4,4,Material price escalation,0.0,28.7,At Risk
+PMN-1111,Water Infrastructure Package 111,Water & Sanitation,Gujarat,State PWD,240.09,42.0,41.1,54.8,34,1,0,69.4,3.5,0,Contractor capacity,15.7,58.4,At Risk
+PMN-1112,Urban Development Infrastructure Package 112,Urban Development,Gujarat,Municipal Corporation,644.92,61.9,53.2,78.3,56,3,0,30.6,6.7,4,Land acquisition,40.5,68.8,At Risk
+PMN-1113,Roads Infrastructure Package 113,Roads & Transport,Rajasthan,Rural Works Department,517.41,60.5,19.4,68.4,32,2,0,46.9,2.4,1,Land acquisition,8.9,47.5,At Risk
+PMN-1114,Health Infrastructure Package 114,Health,Rajasthan,Rural Works Department,142.02,31.1,16.1,87.7,219,7,1,18.0,7.4,4,Land acquisition,70.8,100.0,At Risk
+PMN-1115,Education Infrastructure Package 115,Education,Bihar,Health Infrastructure Cell,70.66,83.7,44.1,89.1,0,3,0,65.9,4.3,3,Material price escalation,14.1,0.0,On Track
+PMN-1116,Health Infrastructure Package 116,Health,Maharashtra,State PWD,615.91,41.1,21.6,31.4,0,1,1,60.7,4.2,1,Design change,24.0,11.1,On Track
+PMN-1117,Education Infrastructure Package 117,Education,Karnataka,Rural Works Department,611.68,63.4,39.9,83.8,79,3,0,41.2,6.3,1,Clearance dependency,28.6,99.2,At Risk
+PMN-1118,Health Infrastructure Package 118,Health,Assam,Urban Development Authority,384.36,50.3,47.2,100.0,139,1,0,44.6,5.9,3,Material price escalation,36.6,100.0,At Risk
+PMN-1119,Roads Infrastructure Package 119,Roads & Transport,Tamil Nadu,Health Infrastructure Cell,379.62,38.8,19.3,29.4,0,0,0,73.3,6.2,0,Monsoon disruption,0.0,0.0,On Track
+PMN-1120,Energy Infrastructure Package 120,Energy,Gujarat,State PWD,47.73,41.4,44.2,68.0,87,0,0,68.1,6.5,0,Land acquisition,27.9,100.0,At Risk
+PMN-1121,Water Infrastructure Package 121,Water & Sanitation,Assam,Urban Development Authority,681.68,62.0,56.5,46.2,0,2,0,52.0,3.4,0,Design change,11.8,0.0,On Track
+PMN-1122,Education Infrastructure Package 122,Education,Uttar Pradesh,State PWD,703.52,45.7,52.5,52.5,35,2,0,77.1,6.6,1,Monsoon disruption,11.0,63.4,At Risk
+PMN-1123,Roads Infrastructure Package 123,Roads & Transport,Uttar Pradesh,Health Infrastructure Cell,168.11,60.6,35.3,80.4,80,2,0,44.6,2.9,2,Contractor capacity,16.8,97.6,At Risk
+PMN-1124,Health Infrastructure Package 124,Health,Maharashtra,Health Infrastructure Cell,132.33,67.5,56.9,57.9,0,2,1,42.3,5.2,4,Contractor capacity,23.1,6.2,On Track
+PMN-1125,Health Infrastructure Package 125,Health,Assam,Urban Development Authority,255.98,35.1,37.5,71.3,80,6,0,54.0,6.8,1,Land acquisition,44.3,100.0,At Risk
+PMN-1126,Energy Infrastructure Package 126,Energy,Gujarat,Health Infrastructure Cell,84.23,96.6,96.2,20.9,0,4,0,77.9,6.3,3,Contractor capacity,0.0,9.6,On Track
+PMN-1127,Roads Infrastructure Package 127,Roads & Transport,Uttar Pradesh,Health Infrastructure Cell,207.78,63.4,72.3,75.3,23,2,0,58.4,6.2,4,Land acquisition,28.7,34.6,At Risk
+PMN-1128,Urban Development Infrastructure Package 128,Urban Development,Rajasthan,Rural Works Department,697.25,38.0,26.7,68.0,68,3,0,44.2,4.6,1,Material price escalation,36.0,100.0,At Risk
+PMN-1129,Water Infrastructure Package 129,Water & Sanitation,Bihar,State PWD,483.37,36.8,12.5,67.4,71,3,1,73.8,6.6,1,Material price escalation,34.2,100.0,At Risk
+PMN-1130,Energy Infrastructure Package 130,Energy,Tamil Nadu,Municipal Corporation,683.14,42.6,22.3,36.1,0,2,1,81.0,5.0,0,Monsoon disruption,12.7,3.3,On Track
+PMN-1131,Energy Infrastructure Package 131,Energy,Karnataka,Urban Development Authority,633.14,55.0,41.5,100.0,146,2,0,18.0,5.3,3,Clearance dependency,43.5,100.0,At Risk
+PMN-1132,Education Infrastructure Package 132,Education,Gujarat,State PWD,559.85,60.3,66.2,87.9,74,1,0,65.4,7.1,4,Land acquisition,33.2,81.6,At Risk
+PMN-1133,Urban Development Infrastructure Package 133,Urban Development,Maharashtra,State PWD,374.39,41.8,10.0,64.2,74,2,0,62.2,8.9,3,Monsoon disruption,20.0,100.0,At Risk
+PMN-1134,Health Infrastructure Package 134,Health,Maharashtra,Health Infrastructure Cell,512.05,34.9,11.1,61.1,77,4,0,43.4,3.2,3,Monsoon disruption,28.4,100.0,At Risk
+PMN-1135,Water Infrastructure Package 135,Water & Sanitation,Assam,Rural Works Department,349.09,4.0,17.6,33.6,92,4,0,56.2,6.8,3,Material price escalation,40.9,100.0,At Risk
+PMN-1136,Energy Infrastructure Package 136,Energy,Gujarat,Municipal Corporation,40.88,30.7,37.1,83.8,64,1,0,26.2,7.5,0,Contractor capacity,53.2,79.6,At Risk
+PMN-1137,Roads Infrastructure Package 137,Roads & Transport,Bihar,State PWD,627.5,100.0,100.0,24.1,0,2,1,96.0,4.5,3,Material price escalation,0.0,11.1,Completed
+PMN-1138,Energy Infrastructure Package 138,Energy,Uttar Pradesh,Health Infrastructure Cell,182.76,47.1,48.8,50.2,13,2,1,89.3,5.7,0,Contractor capacity,20.0,37.1,At Risk
+PMN-1139,Roads Infrastructure Package 139,Roads & Transport,Maharashtra,Urban Development Authority,384.05,68.5,86.1,89.4,6,0,0,92.5,5.9,1,Contractor capacity,16.5,2.2,On Track
+PMN-1140,Roads Infrastructure Package 140,Roads & Transport,Tamil Nadu,Urban Development Authority,24.05,45.7,42.2,100.0,111,3,1,56.4,4.1,4,Material price escalation,45.5,100.0,At Risk
+PMN-1141,Education Infrastructure Package 141,Education,Bihar,Rural Works Department,574.17,57.1,55.6,33.6,0,1,0,95.5,4.1,2,Contractor capacity,0.0,4.2,On Track
+PMN-1142,Roads Infrastructure Package 142,Roads & Transport,Uttar Pradesh,Health Infrastructure Cell,184.16,48.3,27.4,80.9,59,2,0,64.8,4.6,4,Clearance dependency,19.9,75.1,At Risk
+PMN-1143,Energy Infrastructure Package 143,Energy,Gujarat,Rural Works Department,244.37,75.1,59.0,23.4,0,2,0,76.6,4.3,2,Monsoon disruption,0.0,1.4,On Track
+PMN-1144,Education Infrastructure Package 144,Education,Maharashtra,State PWD,428.8,46.8,59.5,68.7,65,1,0,20.2,4.8,1,Clearance dependency,44.9,87.8,At Risk
+PMN-1145,Energy Infrastructure Package 145,Energy,Bihar,Urban Development Authority,434.61,39.4,23.0,76.8,108,2,0,62.0,8.8,4,Monsoon disruption,25.1,100.0,At Risk
+PMN-1146,Roads Infrastructure Package 146,Roads & Transport,Rajasthan,Municipal Corporation,255.49,32.5,29.4,56.2,70,1,0,55.6,6.5,4,Contractor capacity,27.0,100.0,At Risk
+PMN-1147,Water Infrastructure Package 147,Water & Sanitation,Tamil Nadu,State PWD,497.48,77.2,87.0,49.2,0,3,0,44.4,2.7,0,Land acquisition,6.3,0.0,On Track
+PMN-1148,Water Infrastructure Package 148,Water & Sanitation,Assam,Health Infrastructure Cell,403.13,38.6,25.7,93.7,138,8,1,64.7,4.3,0,Material price escalation,57.6,100.0,At Risk
+PMN-1149,Water Infrastructure Package 149,Water & Sanitation,Bihar,State PWD,324.77,92.4,87.4,81.6,0,1,0,70.2,2.3,2,Design change,0.0,8.0,On Track
+PMN-1150,Water Infrastructure Package 150,Water & Sanitation,Maharashtra,Rural Works Department,343.53,70.1,87.0,84.1,58,2,1,60.7,6.8,1,Clearance dependency,33.8,81.6,At Risk
+PMN-1151,Health Infrastructure Package 151,Health,Assam,Municipal Corporation,453.18,52.6,79.7,56.9,54,1,0,74.7,4.8,2,Material price escalation,21.0,99.5,At Risk
+PMN-1152,Energy Infrastructure Package 152,Energy,Rajasthan,State PWD,476.1,84.1,63.6,23.1,0,3,0,64.7,5.1,2,Contractor capacity,0.0,7.9,On Track
+PMN-1153,Water Infrastructure Package 153,Water & Sanitation,Assam,Health Infrastructure Cell,593.12,5.9,7.9,52.9,148,9,0,42.0,9.0,4,Material price escalation,65.2,100.0,At Risk
+PMN-1154,Education Infrastructure Package 154,Education,Gujarat,Municipal Corporation,383.72,37.6,15.3,92.4,182,9,0,18.0,7.5,1,Design change,56.3,100.0,At Risk
+PMN-1155,Water Infrastructure Package 155,Water & Sanitation,Gujarat,Rural Works Department,296.38,63.1,79.3,40.5,0,0,0,47.0,6.8,4,Design change,7.9,0.0,On Track
+PMN-1156,Education Infrastructure Package 156,Education,Uttar Pradesh,State PWD,369.69,81.3,62.4,100.0,36,2,0,83.3,7.8,3,Monsoon disruption,12.0,40.1,At Risk
+PMN-1157,Health Infrastructure Package 157,Health,Tamil Nadu,State PWD,632.77,86.5,100.0,54.1,0,2,0,57.6,7.8,1,Material price escalation,8.4,11.8,On Track
+PMN-1158,Education Infrastructure Package 158,Education,Tamil Nadu,Urban Development Authority,700.34,31.6,2.0,92.9,131,1,0,36.6,6.3,1,Clearance dependency,34.1,100.0,At Risk
+PMN-1159,Energy Infrastructure Package 159,Energy,Tamil Nadu,Health Infrastructure Cell,113.94,48.0,38.1,61.5,47,2,0,65.7,7.9,3,Material price escalation,21.0,71.1,At Risk
+PMN-1160,Water Infrastructure Package 160,Water & Sanitation,Maharashtra,Health Infrastructure Cell,554.9,82.9,65.5,26.3,0,0,0,43.4,3.7,0,Monsoon disruption,0.0,0.0,On Track
+PMN-1161,Education Infrastructure Package 161,Education,Tamil Nadu,State PWD,491.26,61.6,63.7,41.3,0,0,0,75.2,5.3,3,Design change,0.0,0.0,On Track
+PMN-1162,Urban Development Infrastructure Package 162,Urban Development,Tamil Nadu,Urban Development Authority,640.97,75.7,69.3,34.6,0,1,1,55.7,5.9,1,Clearance dependency,0.0,11.7,On Track
+PMN-1163,Urban Development Infrastructure Package 163,Urban Development,Gujarat,Rural Works Department,674.34,53.8,81.9,31.7,0,3,0,68.5,9.3,2,Material price escalation,24.0,1.1,On Track
+PMN-1164,Roads Infrastructure Package 164,Roads & Transport,Rajasthan,Municipal Corporation,189.83,83.5,99.4,87.1,8,2,1,45.7,5.8,3,Design change,30.7,25.0,At Risk
+PMN-1165,Urban Development Infrastructure Package 165,Urban Development,Bihar,Municipal Corporation,55.95,40.6,6.5,49.2,18,2,0,79.0,7.1,3,Contractor capacity,8.3,39.0,At Risk
+PMN-1166,Water Infrastructure Package 166,Water & Sanitation,Gujarat,Rural Works Department,278.94,71.9,58.5,73.2,35,2,1,64.7,5.6,3,Design change,19.4,58.2,At Risk
+PMN-1167,Education Infrastructure Package 167,Education,Karnataka,State PWD,677.56,45.1,59.9,78.2,84,1,0,65.5,6.9,3,Clearance dependency,23.4,100.0,At Risk
+PMN-1168,Education Infrastructure Package 168,Education,Tamil Nadu,Rural Works Department,339.33,65.0,35.2,46.8,0,1,0,50.1,6.8,1,Land acquisition,7.4,0.0,On Track
+PMN-1169,Health Infrastructure Package 169,Health,Gujarat,Health Infrastructure Cell,94.03,58.2,51.1,100.0,102,3,0,53.9,5.4,4,Contractor capacity,37.1,100.0,At Risk
+PMN-1170,Health Infrastructure Package 170,Health,Karnataka,Health Infrastructure Cell,473.44,85.4,90.8,79.6,0,0,0,83.8,7.1,1,Land acquisition,9.6,6.8,On Track
+PMN-1171,Water Infrastructure Package 171,Water & Sanitation,Bihar,Municipal Corporation,719.57,56.5,53.7,53.8,0,2,0,53.1,6.4,3,Clearance dependency,24.6,3.9,On Track
+PMN-1172,Health Infrastructure Package 172,Health,Bihar,State PWD,243.75,31.2,2.0,64.8,114,3,0,54.8,7.3,3,Land acquisition,28.9,100.0,At Risk
+PMN-1173,Health Infrastructure Package 173,Health,Karnataka,Rural Works Department,381.55,37.6,40.2,59.7,40,2,0,63.2,4.3,4,Monsoon disruption,26.4,67.8,At Risk
+PMN-1174,Water Infrastructure Package 174,Water & Sanitation,Maharashtra,Urban Development Authority,347.33,47.8,43.5,89.4,98,6,0,75.0,4.1,2,Material price escalation,31.1,100.0,At Risk
+PMN-1175,Education Infrastructure Package 175,Education,Gujarat,Municipal Corporation,594.96,80.5,89.9,68.6,0,2,0,60.7,2.0,3,Material price escalation,1.0,10.7,On Track
+PMN-1176,Education Infrastructure Package 176,Education,Karnataka,Rural Works Department,95.75,89.6,85.1,55.0,0,2,0,54.5,6.7,2,Contractor capacity,2.5,0.0,On Track
+PMN-1177,Roads Infrastructure Package 177,Roads & Transport,Tamil Nadu,State PWD,238.54,60.8,59.2,100.0,122,2,1,62.6,4.6,2,Material price escalation,49.4,100.0,At Risk
+PMN-1178,Education Infrastructure Package 178,Education,Gujarat,Health Infrastructure Cell,284.56,43.4,40.5,69.6,69,5,0,58.6,3.6,4,Design change,38.7,100.0,At Risk
+PMN-1179,Education Infrastructure Package 179,Education,Rajasthan,Municipal Corporation,437.64,74.0,98.3,60.6,0,1,0,84.3,5.1,1,Land acquisition,11.1,5.2,On Track
+PMN-1180,Energy Infrastructure Package 180,Energy,Bihar,State PWD,654.58,46.4,5.9,87.4,107,4,0,35.8,7.2,3,Contractor capacity,26.2,100.0,At Risk
